@@ -1,0 +1,20 @@
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\bin\Debug\Consulta de Movimientos.exe.config
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\bin\Debug\Consulta de Movimientos.exe
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\bin\Debug\Consulta de Movimientos.pdb
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.csprojAssemblyReference.cache
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta_de_Movimientos.frm_consulta_movimientos.resources
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta_de_Movimientos.Properties.Resources.resources
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.csproj.GenerateResource.cache
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.csproj.CoreCompileInputs.cache
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.exe
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.pdb
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\bin\Debug\Consulta de Movimientos.exe.config
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\bin\Debug\Consulta de Movimientos.exe
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\bin\Debug\Consulta de Movimientos.pdb
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.csprojAssemblyReference.cache
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta_de_Movimientos.frm_consulta_movimientos.resources
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta_de_Movimientos.Properties.Resources.resources
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.csproj.GenerateResource.cache
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.csproj.CoreCompileInputs.cache
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.exe
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta de Movimientos\obj\Debug\Consulta de Movimientos.pdb

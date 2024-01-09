@@ -1,0 +1,20 @@
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\bin\Debug\Consulta Regional de Credito.exe.config
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\bin\Debug\Consulta Regional de Credito.exe
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\bin\Debug\Consulta Regional de Credito.pdb
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.csprojAssemblyReference.cache
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta_Regional_de_Credito.frm_consulta_regional_credito.resources
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta_Regional_de_Credito.Properties.Resources.resources
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.csproj.GenerateResource.cache
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.csproj.CoreCompileInputs.cache
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.exe
+C:\Users\MacBook de Jay\Documents\Proyectos Visual Studio\Sistema Financiero\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.pdb
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\bin\Debug\Consulta Regional de Credito.exe.config
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\bin\Debug\Consulta Regional de Credito.exe
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\bin\Debug\Consulta Regional de Credito.pdb
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.csprojAssemblyReference.cache
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta_Regional_de_Credito.frm_consulta_regional_credito.resources
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta_Regional_de_Credito.Properties.Resources.resources
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.csproj.GenerateResource.cache
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.csproj.CoreCompileInputs.cache
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.exe
+C:\Users\Jay Roronoa\Desktop\Sistema Financiero\Consulta Regional de Credito\obj\Debug\Consulta Regional de Credito.pdb
